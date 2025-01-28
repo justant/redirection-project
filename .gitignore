@@ -1,0 +1,10 @@
+*.iml
+.idea/
+downloads/
+myenv/
+venv/
+out/
+*.class
+*.log
+*.properties
+
